@@ -56,7 +56,7 @@ const LandingPage = () => {
                     </div>
                     <div className="flex items-center">
                         <Text>
-                            Use this AI based AI generated text detector to identify content on the internet you you suspect to be AI generated.
+                            Use this AI based AI generated text detector to identify content on the internet you suspect to be AI generated.
                         </Text>
                     </div>
                     <div className="flex items-center w-full">

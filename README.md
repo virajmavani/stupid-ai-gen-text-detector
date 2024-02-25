@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff8e6e9e-6e56-4417-b0e0-91ec08a3d9fe/deploy-status)](https://app.netlify.com/sites/gpt-detector/deploys)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

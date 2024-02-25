@@ -77,7 +77,7 @@ const LandingPage = () => {
                                 style={{ transform: `translateX(-${100 - progress}%)` }}
                             />
                         </Progress.Root>
-                        <Heading className={resultsVisible ? "visible": "hidden"}>{probability.substring(0, 2)}%</Heading>
+                        <Heading className={resultsVisible ? "visible": "hidden"}>{probability.split(".")[0]}%</Heading>
                     </div>
                 </div>
             </WavyBackground>
